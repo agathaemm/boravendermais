@@ -1,0 +1,5 @@
+{
+    "Cluster": "Código de referência do cluster ao qual a rede pertence",
+    "Nome": "Nome da rede",
+    "Referencia": "Código de referência que será usado para todas as importações do sistema."
+}

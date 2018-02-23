@@ -1,0 +1,7 @@
+{
+    "Nome": "Nome do funcionário (opcional)",
+    "NeoCode": "Codígo Neotass usado no cadastro do usuário",
+    "Loja": "Nome da loja do usuário. Dever ser o mais parecido possível com as lojas cadastradas no banco (opcional)",
+    "CPF": "CPF do usuário",
+    "Cargo": "Cargo do cliente. ( opcional ) se não for encontrado, será setado como vendedor."
+}

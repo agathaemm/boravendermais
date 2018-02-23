@@ -1,0 +1,14 @@
+{
+    "Nome": "Nome da loja ( nome que será exibido, nome fantasia )",
+    "CNPJ": "CNPJ da loja",
+    "Razao": "Razao social da loja ( não obrigatório )",
+    "Rede": "Rede em que a loja se localiza.",
+    "Cluster": "Cluster em que a loja se localiza.",
+    "Estado": "O estado em que a loja está. ( Deve ser a sigla )",
+    "Cidade": "Cidade onde a loja está. ( Deve ser o nome da cidade completo, sem abreviações )",
+    "Bairro": "Bairro da loja ( opcional )",
+    "Endereco": "Endereco da loja ( opcional )",
+    "Numero": "Numero da loja ( opcional )",
+    "Complemento": "Complemento da loja ( opcional )",
+    "Pontos": "Caso deseja indicar a quantidade de pontos iniciais da loja ( opcional )"
+}

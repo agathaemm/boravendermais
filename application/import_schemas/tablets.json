@@ -1,0 +1,7 @@
+{
+    "BasicCode": "Código de referência do tablet. Muito importante pois será usado nos lançamentos de venda.",
+    "Nome": "Nome de exibição do tablet",
+    "Pontos": "Quantidade de pontos que cada venda desse produto irá gerar no sistema",
+    "Video": "Video do produto ( opcional )",
+    "Descricao": "Descrição do produto ( opcional )"
+}

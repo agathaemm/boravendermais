@@ -1,0 +1,9 @@
+{
+    "NeoCode"     : "Código Neotass do vendedor",
+    "BasicCode"   : "O código de referência do produto",
+    "Quantidade"  : "Quantidade de produtos vendidos",
+    "Data"        : "Data da venda",
+    "TotalPontos" : "Total de pontos gerados na venda",
+    "Ponto"       : "Ponto unitário de cada produto",
+    "TotalValor"  : "Valor total gasto na venda"
+}

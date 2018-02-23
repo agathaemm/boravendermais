@@ -1,0 +1,8 @@
+{
+    "BasicCode": "Código de referência do produto. Muito importante pois será usado nos lançamentos de venda.",
+    "Nome": "Nome de exibição do produto",
+    "Pontos": "Quantidade de pontos que cada venda desse produto irá gerar no sistema",
+    "Categoria": "Categoria do produto no sistema. Pode ser o nome da categoria ou o código de referência, mas deve estar igual ao sistema",
+    "Video": "Video do produto ( opcional )",
+    "Descricao": "Descrição do produto ( opcional )"
+}

@@ -1,0 +1,9 @@
+{
+    "NeoCode"     : "Código Neotass do vendedor",
+    "BasicCode"   : "O código de referência do tablet",
+    "Quantidade"  : "Quantidade de tablets vendidos",
+    "Data"        : "Data da venda",
+    "TotalPontos" : "Total de pontos gerados na venda",
+    "Ponto"       : "Ponto unitário do tablet",
+    "TotalValor"  : "Valor total gasto na venda"
+}
